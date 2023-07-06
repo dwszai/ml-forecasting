@@ -3,7 +3,7 @@ jupyter==1.0.0
 numpy==1.18.1
 pandas==1.0.1
 pandas-profiling==1.4.1
-scipy==1.4.1
+scipy==1.10.0
 fuzzywuzzy==0.17.0
 
 ##### Visualization packages
